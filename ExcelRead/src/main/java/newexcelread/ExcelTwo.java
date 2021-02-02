@@ -14,6 +14,8 @@ public class ExcelTwo {
 		// TODO Auto-generated method stub
 		ExcelOne obj=new ExcelOne();
 		// double value =obj.readData(0, 1);
+		 System.out.println(" Push from eclipse to GIT");
+
 		for(int i=0;i<=1;i++)
 		{
 			for(int j=0;j<=1;j++)
