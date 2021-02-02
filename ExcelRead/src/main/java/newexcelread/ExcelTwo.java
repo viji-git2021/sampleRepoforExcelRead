@@ -15,6 +15,7 @@ public class ExcelTwo {
 		ExcelOne obj=new ExcelOne();
 		// double value =obj.readData(0, 1);
 		 System.out.println(" Push from eclipse to GIT");
+ 		 System.out.println(" Pull from GIT to Eclipse");
 
 		for(int i=0;i<=1;i++)
 		{
